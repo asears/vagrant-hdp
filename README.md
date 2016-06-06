@@ -12,7 +12,7 @@ Quickly setup devolping or demo cluster based on Hortonworks HDP Platform on mul
    `vagrant plugin install vagrant-hosts`
 ** [Vagrant Cachier (for Repo caching)](https://github.com/fgrehm/vagrant-cachier)
    `vagrant plugin install vagrant-cachier`
-4. `git clone git@github.com:hkropp/vagrant-hdp.git`
+4. `git clone http://www.github.com/hkropp/vagrant-hdp.git`
 
 ## Example
 After installing [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and [Vagrant](https://docs.vagrantup.com/v2/installation/) it should be enough to run `vagrant up` inside vagrant-hdp folder.
